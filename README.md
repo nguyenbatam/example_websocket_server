@@ -1,6 +1,7 @@
 # example websocket server
 - support chat realtime & event game 
 - using gorilla websocket , redis & protobuf
+- support scale up to 1m connections 
 ## before running the test
 - make sure setting the correct system env, for example:
 
