@@ -1,0 +1,7 @@
+JwtSecretKey    =  "example_server_chat"
+NumberWorker    =  5
+
+[Redis]
+    addr		= "127.0.0.1:6379"
+   	password	= ""
+
